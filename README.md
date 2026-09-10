@@ -1,9 +1,14 @@
 # Quick Chats
 
-- Rebranding ID: 69955c1e5cd00a7cb66023e1
-- User ID: 69940a0d372b177d7374d15e
-- App name: Quick Chats
-- Product name: Button Sender
+Quick Chats by Thinklemon agnc..
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/249f6afb-533d-406d-ad15-ff958690e368.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/249f6afb-533d-406d-ad15-ff958690e368.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/69955c1e5cd00a7cb66023e1/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Quick Chats** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/69955c1e5cd00a7cb66023e1/releases/latest) and reinstall.
